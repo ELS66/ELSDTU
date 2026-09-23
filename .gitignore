@@ -6,5 +6,6 @@ dist/
 build/
 logs/
 *.log
+.data/
 .idea/
 .vscode/

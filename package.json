@@ -1,0 +1,14 @@
+{
+  "name": "elsdtu",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/server.mjs",
+    "simulate": "node src/simulate-gateway.mjs",
+    "test": "node --test"
+  }
+}
